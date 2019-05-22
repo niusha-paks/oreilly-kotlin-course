@@ -8,5 +8,7 @@ import com.hadihariri.kotlincourse.basics.utils.someUtility as someAdditionalFun
  */
 fun main(args: Array<String>) {
 
-    someAdditionalFunction("Some name")
+    println("hello world")
+    someAdditionalFunction("some name")
+
 }
