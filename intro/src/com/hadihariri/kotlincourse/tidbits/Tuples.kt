@@ -24,7 +24,7 @@ fun main(args: Array<String>) {
 
     val (capital, continent, population) = countryInformation("Madrid")
 
-    val (id, name, email) = CustomerKotlin(1, "Hadi", "email@email.com")
+    //val (id, name, email) = CustomerKotlin(1, "Hadi", "email@email.com")
 
     val listCapitalsAndCountries = listOf(Pair("Madrid", "Spain"), "Paris" to "France")
 

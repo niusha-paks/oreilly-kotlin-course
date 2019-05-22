@@ -12,9 +12,9 @@ fun main(args: Array<String>) {
 
     customer.email = "mail@hadihariri.com"
 
-    customer.prettyPrint()
+    //customer.prettyPrint()
 
-    customer.neverNull()
+    //customer.neverNull()
 
     val runnable = Runnable { println("Invoking runnable") }
 

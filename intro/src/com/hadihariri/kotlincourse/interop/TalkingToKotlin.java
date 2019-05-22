@@ -24,14 +24,14 @@ public class TalkingToKotlin {
 
     public static void main(String[] args) {
 
-        CustomerKotlin customerKotlin = new CustomerKotlin(1, "Hadi", "mail@hadihariri.com");
+        //CustomerKotlin customerKotlin = new CustomerKotlin(1, "Hadi", "mail@hadihariri.com");
 
-        customerKotlin.setEmail("mail@hadihariri.com");
+        /*customerKotlin.setEmail("mail@hadihariri.com");
 
 
         customerKotlin.changeStatus(Status.Current);
 
-        customerKotlin.preferential();
+        customerKotlin.preferential();*/
 
 
         UtilityClass.prefix("some", "value");
